@@ -27,8 +27,9 @@ Estoy abierta a colaborar en proyectos donde los datos impulsen la toma de decis
 
 📂 En este GitHub encontrarás
 
-Proyectos de análisis de datos
-Aplicación de modelos de machine learning
+Proyectos de análisis de datos.
+
+Aplicación de modelos de machine learning.
 
 ✨ Cada proyecto es para mí como un viaje: explorar, descubrir y entender el mundo a través de los datos.
 
